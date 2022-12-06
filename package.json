@@ -19,7 +19,7 @@
     "express-validation": "^1.0.3",
     "express-validator": "^6.3.0",
     "http-status": "^1.4.2",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "util.promisify": "^1.0.0"
   },
   "devDependencies": {
